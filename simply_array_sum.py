@@ -2,7 +2,7 @@
 
 import os
 import sys
-
+ar = [3,4,3,2,3]
 #
 # Complete the simpleArraySum function below.
 #
